@@ -1,0 +1,33 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Disallow: /dashboard/
+
+User-agent: *
+Disallow: /offerings/
+
+User-agent: *
+Disallow: /verify
+
+User-agent: *
+Disallow: /reset-password
+
+User-agent: *
+Allow: /
+
+User-agent: *
+Allow: /how-it-works
+
+User-agent: *
+Allow: /privacy-policy
+
+User-agent: *
+Allow: /terms-of-service
+
+User-agent: *
+Allow: /register
+
+User-agent: *
+Allow: /login
+
+User-agent: *
+Allow: /forgot-password

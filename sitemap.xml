@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>http://pointmentapp.com/</loc>
+    <lastmod>2022-04-01</lastmod>
+  </url>
+
+  <url>
+    <loc>http://pointmentapp.com/terms-of-service</loc>
+    <lastmod>2022-04-01</lastmod>
+  </url>
+  <url>
+    <loc>http://pointmentapp.com/privacy-policy</loc>
+    <lastmod>2022-04-01</lastmod>
+  </url>
+  <url>
+    <loc>http://pointmentapp.com/login</loc>
+    <lastmod>2022-04-01</lastmod>
+  </url>
+  <url>
+    <loc>http://pointmentapp.com/register</loc>
+    <lastmod>2022-04-01</lastmod>
+  </url>
+</urlset>
